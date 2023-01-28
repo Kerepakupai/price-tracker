@@ -4,7 +4,7 @@ import requests
 from notification_manager import NotificationManager as notification
 
 
-TARGET_PRICE = 60000
+TARGET_PRICE = 50000
 PRODUCT_URL = "https://www.falabella.com/falabella-cl/product/882681334/La-Martina-Camisa-Casual-Manga-Larga-Hombre/882681340?exp=tienda"
 
 
